@@ -1,15 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-TTKBootstrap GUI 应用程序
-由 TTKBootstrap设计大师 自动生成
-生成时间: 2026-01-03 16:51:43
 
-使用说明:
-1. 确保已安装 ttkbootstrap: pip install ttkbootstrap
-2. 如需支持更多图片格式，请安装 PIL: pip install Pillow
-3. 运行此文件: python design.py
-"""
 
 import ttkbootstrap as ttk
 import tkinter as tk
@@ -18,7 +9,6 @@ from ttkbootstrap.constants import *
 from ttkbootstrap.tooltip import ToolTip
 from ttkbootstrap.tableview import Tableview
 
-# PIL导入用于支持更多图片格式（JPG, PNG, GIF, BMP等）
 try:
     from PIL import Image, ImageTk
 
@@ -399,3 +389,4 @@ class App(ttk.Window):
 if __name__ == '__main__':
     app = App()
     app.mainloop()
+
