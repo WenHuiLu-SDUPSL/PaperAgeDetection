@@ -1,0 +1,2 @@
+Machine learning (e.g., Random Forest, XGBoost) leverages GC-IMS features to learn age-related patterns. It automates analysis, handles high-dimensional data, and enables rapid, accurate non-destructive dating, supporting artifact authentication and preservation.
+Paper dating is crucial for cultural heritage, forensics, and archives. Traditional subjective or destructive methods have limitations, while GC-IMS provides non-destructive chemical fingerprints (VOC profiles) that evolve with paper aging, enabling objective chronological classification without damaging specimens.
